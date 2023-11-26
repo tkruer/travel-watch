@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701022439338,
+      "tag": "0000_overrated_silver_sable",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701023059916,
+      "tag": "0001_true_frightful_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701025207989,
+      "tag": "0002_cheerful_wonder_man",
+      "breakpoints": true
+    }
+  ]
+}

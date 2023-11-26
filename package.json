@@ -3,9 +3,15 @@
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "drizzle-kit": "^0.20.4"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.4.0-pre.2",
+    "dotenv": "^16.3.1",
+    "drizzle-orm": "^0.29.0"
   }
 }
