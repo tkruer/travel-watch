@@ -15,7 +15,7 @@ export async function getHiltonHotels(): Promise<HiltonHotels> {
         "headers": {
             "Accept": "*/*",
             "Accept-Language": "en-US,en;q=0.9", // TODO: Watch Authorization, hltClientMessageId, x-dtpc, visitorId 
-            "Authorization": "Bearer DX.eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZHQ00iLCJwaWQiOiJ3ZWIiLCJraWQiOiI4UVl1RTZfdHBValdjUmVnem1RZFlBaF9RYlk1ckVqUlpPTThwWmNKeU5BIn0.cze3CoOWS_iZS86vdjHejTphRMkEOuMHhNRhHByMoffVCIb3FO7JaDx1xG620k29TwkHXZ0aOI5_51tHzMSB2Zw03K6977GserdxZ7oOs5kw2Ji1QjUTYbs3-QhxAM_kcXYK5tfonyJvMG5nPPnNl1KA2mCtBDe2mSkea5HYZ2NFZqnixzgQ4lwT98GYFX5qce_YlRMWv-0ztGAqPM7HVQuH-bncGETb6TJe31ePcus92aNCRuWVo6ZA-wQ7wSNZZcr3kk3QlSOqgmNMf0lU062zLGHtNUTbhBgxjbMR6O7y6j_L4qM9yz6BxSeitvQ3zCChO0jiJSRBpO9RKaWG2w.IHEMsGASDyi_kl6a.uKSfwDn1TppEHA-AE_Ft4wTflWDof5fOq47s6m62q-sWlyYO8IqP869adRjMBkRuOWyox9wFT2PVGWZMfxKkWStcg0_QAzdjKN9Gy12dKEgzibKKZdOgaZiluDvSuMHK_w39qPKGEm_7BS2K8STAJfKsyQAT5rqU_5gGBKeNyrqPLW_q6YPSwLtMPnfLkLskL3-Y4pCwDQbMvIyu7h8wyelM0AHNj5q58LGb7Z9dKhLFpiomWkdlhTi64t_IUB_TCHw8_2haiVXN-bRUjOxW4cKPP25omDebYviPw_TtVwBn3WnIGdIO5upAr1hXVa5m1Pc_D-NbwmX1wmDijhGp0jOmEx5oBSF5pzceWw-BVvX1uAzv7okluJdMFpfleyJJ5z59oZ6896W4XP8wANsgMvpOwYnQ-qvtA6rQIvVFr2lVCZTI-y1suAjbYr4P6-fxEYW7wg3OCHLkGsFhaxjIgRkUd3DXXWxN9aKo_GGhyUVdQgS_ZmUNFkeFVUT61kZj0vCsovH6Com8lvM9Sy33vpGOzmktJsIERcravRY20hDqxidA8jO887xeJGYnmASmOWiQHwdUSVvz_GQHj04ACF76qhdCK2Xn3Vm5kCpTpYGJAHp4oer3X2x7wDfJr2zy1Eyg4fIyhZ-gfyNuaBp13-oJIc1VLXJUb9g0zrc5yWMM33PDlVKyRQs6MOMtDffRV69OWZp3LtbaU_qeIttH2kApcSGHTw.RLIuai2PndejiOyXu9vRTA",
+            "Authorization": "Bearer ",
             "Content-Type": "application/json",
             "dx-platform": "web",
             "hltClientMessageId": "0308c738-a9dc-4a24-b193-d0e630179c1e-8fb827649a4845698aab4b79337d4342",
